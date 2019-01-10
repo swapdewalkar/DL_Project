@@ -2,3 +2,4 @@ DLENV
 Temp
 .ipynb_checkpoints
 ./*/.ipynb_checkpoints
+./*/saved_models
